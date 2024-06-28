@@ -101,6 +101,18 @@ console.log(isjavaboring);
     // Date
      let currentDate = new Date();
     console.log(currentDate);
+
+    let char1 = "20";
+   let asciiValue1 = char1.charCodeAt(0);
+   console.log("ASCII value of '" + char1 + "': " + asciiValue1);
+
+   //operators
+ // Arthimetic operator
+
+ 
+
+   
+
      
 
 
