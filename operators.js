@@ -66,6 +66,10 @@ let firstName = "Sejal"
 let lastName = "Shrivastava";
 console.log("String concatenation: " +firstName+ "  " +lastName);
 
+ let string1 = "Sejal";
+ let string2 = "sejal";
+ console.log(string1==string2);
+
 let text = "What a nice ";
 text+= " day! ";
 console.log(text);
